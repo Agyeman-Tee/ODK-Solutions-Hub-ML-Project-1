@@ -98,7 +98,7 @@ The model is deployed as an interactive web app with four sections:
 | 🔍 Feature Importance | Top-10 most predictive features |
 | 🎯 Predict a Student | Live prediction form with class probabilities |
 
-Access the web app at [Augustina Agyapomaa Agyeman ML Pj 1](https://odk-solutions-app-ml-project-1-ppcdyh3dvkaqm53dyzqt5b.streamlit.app/#student-grade-predictor)
+Access the web app at [Augustina Agyapomaa Agyeman ML Project 1](https://odk-solutions-app-ml-project-1-ppcdyh3dvkaqm53dyzqt5b.streamlit.app/#student-grade-predictor)
 ---
 
 ## 📦 Dependencies
