@@ -71,7 +71,7 @@ st.markdown("""
 st.markdown("""
 <div class="hero">
     <h1>🎓 Student Grade Predictor</h1>
-    <p>Augustina Agyapomaa Agyeman · Project 1 · Supervisor: ODK Solutions Hub</p>
+    <p>Augustina Agyapomaa Agyeman · Project 1 · Supervisor: Obeng Dominic Koranteng</p>
 </div>
 """, unsafe_allow_html=True)
 
